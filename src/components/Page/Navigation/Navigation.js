@@ -13,8 +13,8 @@ const Navigation = () => {
       variant="contained"
       aria-label="Disabled button group"
     >
-      <Button onClick={() => navigate("/tony")}>Tony's Wiki</Button>
-      <Button onClick={() => navigate("/chole")}>Chole's Wiki</Button>
+      <Button onClick={() => navigate("/wiki-app/tony")}>Tony's Wiki</Button>
+      <Button onClick={() => navigate("/wiki-app/chole")}>Chole's Wiki</Button>
     </ButtonGroup>
   );
 };

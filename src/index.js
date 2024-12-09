@@ -16,8 +16,9 @@ root.render(
     <Navigation />
     <Routes>
       <Route path="/" element={<TonyPage />} />
-      <Route path="/tony" element={<TonyPage />} />
-      <Route path="/chole" element={<CholePage />} />
+      <Route path="/wiki-app" element={<TonyPage />} />
+      <Route path="/wiki-app/tony" element={<TonyPage />} />
+      <Route path="/wiki-app/chole" element={<CholePage />} />
     </Routes>
   </BrowserRouter>
 );
