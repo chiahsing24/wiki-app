@@ -1,11 +1,23 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router";
+
+import Navigation from "./components/Page/Navigation/Navigation";
+
+import TonyPage from "./pages/TonyPage/TonyPage";
+import CholePage from "./pages/CholePage/CholePage";
+
 import "./index.css";
-import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
+
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <BrowserRouter>
+    <Navigation />
+    <Routes>
+      <Route path="/" element={<TonyPage />} />
+      <Route path="/tony" element={<TonyPage />} />
+      <Route path="/chole" element={<CholePage />} />
+    </Routes>
+  </BrowserRouter>
 );
