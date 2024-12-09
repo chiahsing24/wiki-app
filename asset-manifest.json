@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/wiki-app/static/css/main.f68bdb57.css",
+    "main.js": "/wiki-app/static/js/main.80b14d47.js",
+    "static/media/IMG_0357.jpeg": "/wiki-app/static/media/IMG_0357.a294b76ad9b381b766bc.jpeg",
+    "static/media/IMG_0363.jpeg": "/wiki-app/static/media/IMG_0363.016868c6f8573c05867b.jpeg",
+    "static/media/dino_cheng.jpeg": "/wiki-app/static/media/dino_cheng.751782e841f3f0c32cc8.jpeg",
+    "static/media/dino.jpeg": "/wiki-app/static/media/dino.d00f13ea84fa0d716426.jpeg",
+    "static/media/vegas04.jpeg": "/wiki-app/static/media/vegas04.dc00685540ef10413046.jpeg",
+    "static/media/channing_zhou.jpeg": "/wiki-app/static/media/channing_zhou.17dbf7498ef45395926a.jpeg",
+    "static/media/vegas03.jpeg": "/wiki-app/static/media/vegas03.e7dd2f22ee2bf492a6da.jpeg",
+    "static/media/vegas01.jpeg": "/wiki-app/static/media/vegas01.9359360734ed1ed34cb0.jpeg",
+    "static/media/fred.jpeg": "/wiki-app/static/media/fred.5c0e411b1fdc84828d44.jpeg",
+    "static/media/vegas02.jpeg": "/wiki-app/static/media/vegas02.a06593c3273549a5b894.jpeg",
+    "static/media/jiamin_lin.jpeg": "/wiki-app/static/media/jiamin_lin.7fc1571f41567ef7afcf.jpeg",
+    "static/media/stanley.jpeg": "/wiki-app/static/media/stanley.7508297a0e42c33b5928.jpeg",
+    "static/media/houjue.jpeg": "/wiki-app/static/media/houjue.d330a0169ca1ceb6fa08.jpeg",
+    "static/media/uf_graduation.jpeg": "/wiki-app/static/media/uf_graduation.b19a3b43baff34b3d812.jpeg",
+    "static/media/catherine.jpeg": "/wiki-app/static/media/catherine.bf53651f69af48c94bb7.jpeg",
+    "static/media/betty.jpeg": "/wiki-app/static/media/betty.84ed773a3fb904d681a5.jpeg",
+    "static/media/jeff_liu.jpeg": "/wiki-app/static/media/jeff_liu.2962a441ef1c27f318ac.jpeg",
+    "static/media/berfy.jpeg": "/wiki-app/static/media/berfy.d47776b1555ca1212fa7.jpeg",
+    "static/media/juyin_chung.jpeg": "/wiki-app/static/media/juyin_chung.19467c04e5da42a5be81.jpeg",
+    "static/media/wentin_chen.jpeg": "/wiki-app/static/media/wentin_chen.655f95e5a9d98ab915be.jpeg",
+    "static/media/bo.jpeg": "/wiki-app/static/media/bo.922fbda31611d7b44fa8.jpeg",
+    "index.html": "/wiki-app/index.html",
+    "main.f68bdb57.css.map": "/wiki-app/static/css/main.f68bdb57.css.map",
+    "main.80b14d47.js.map": "/wiki-app/static/js/main.80b14d47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68bdb57.css",
+    "static/js/main.80b14d47.js"
+  ]
+}
