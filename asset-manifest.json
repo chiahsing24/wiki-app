@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wiki-app/static/css/main.f68bdb57.css",
-    "main.js": "/wiki-app/static/js/main.80b14d47.js",
+    "main.js": "/wiki-app/static/js/main.92a3d13a.js",
     "static/media/IMG_0357.jpeg": "/wiki-app/static/media/IMG_0357.a294b76ad9b381b766bc.jpeg",
     "static/media/IMG_0363.jpeg": "/wiki-app/static/media/IMG_0363.016868c6f8573c05867b.jpeg",
     "static/media/dino_cheng.jpeg": "/wiki-app/static/media/dino_cheng.751782e841f3f0c32cc8.jpeg",
@@ -25,10 +25,10 @@
     "static/media/bo.jpeg": "/wiki-app/static/media/bo.922fbda31611d7b44fa8.jpeg",
     "index.html": "/wiki-app/index.html",
     "main.f68bdb57.css.map": "/wiki-app/static/css/main.f68bdb57.css.map",
-    "main.80b14d47.js.map": "/wiki-app/static/js/main.80b14d47.js.map"
+    "main.92a3d13a.js.map": "/wiki-app/static/js/main.92a3d13a.js.map"
   },
   "entrypoints": [
     "static/css/main.f68bdb57.css",
-    "static/js/main.80b14d47.js"
+    "static/js/main.92a3d13a.js"
   ]
 }
